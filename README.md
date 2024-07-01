@@ -26,3 +26,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganesh-korgaonkar&show_icons=true&locale=en&layout=compact" alt="ganesh-korgaonkar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganesh-korgaonkar&show_icons=true&locale=en" alt="ganesh-korgaonkar" /></p>
+
+## Watch snake eating my github contributions 
+
+![snake gif](https://github.com/GANESH-KORGAONKAR/GANESH-KORGAONKAR/blob/output/github-contribution-grid-snake.svg)
+
+
