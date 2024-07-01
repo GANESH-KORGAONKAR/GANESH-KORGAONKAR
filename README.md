@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **advanced full stack development and system administration techniques.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GANESH-KORGAONKAR?tab=repositories](https://github.com/GANESH-KORGAONKAR?tab=repositories)
-
 - 📫 How to reach me **ganeshkorgaonkar4335@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
