@@ -1,7 +1,13 @@
 <h1 align="center">👋Hi , I'm Ganesh! Welcome to my coding world! 🌟</h1>
-<h3 align="center">A passionate software developer from India, specializing in Java, JavaScript, ReactJS, and MySQL.</h3>
+<h3 align="center">A passionate software developer from India, specializing in Java, JavaScript, ReactJS, and MySQL, continuously learning and improving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh-korgaonkar&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh-korgaonkar" /> </p>
+
+- 🌱 I’m currently learning **advanced full stack development and system administration techniques.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/GANESH-KORGAONKAR?tab=repositories](https://github.com/GANESH-KORGAONKAR?tab=repositories)
+
+- 📫 How to reach me **ganeshkorgaonkar4335@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
