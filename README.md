@@ -1,6 +1,12 @@
 <h1 align="center">👋Hi , I'm Ganesh! Welcome to my coding world! 🌟</h1>
 <h3 align="center">A passionate software developer from India, specializing in Java, JavaScript, ReactJS, and MySQL, continuously learning and improving.</h3>
 
+<img alt="code gif" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
+
+<p >
+<img align="right" width="300" height="225" src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" alt="Web Development Illustration" >
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh-korgaonkar&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh-korgaonkar" /> </p>
 
 - 🌱 I’m currently learning **advanced full stack development and system administration techniques.**
